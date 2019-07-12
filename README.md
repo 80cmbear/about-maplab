@@ -10,7 +10,7 @@ Maplab编译安装：https://www.jianshu.com/p/27f649aadb2f
 Maplab开源VI-SLAM框架学习（一）：Maplab框架简介https://blog.csdn.net/qq_36355662/article/details/80884009
 
 
-自己参考的maplab安装过程：
+自己参考的maplab安装过程
 Maplab编译安装：https://www.jianshu.com/p/27f649aadb2f
 Maplab安装教程: https://blog.csdn.net/wendox/article/details/78734422
 
